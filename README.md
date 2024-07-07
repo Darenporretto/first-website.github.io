@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<html>
-    <head>
-      
-    </head>
-    
-    <body>
-      
-    </body>
-</html>
+# first-website.github.io
+
+## only complete to do 1-10
