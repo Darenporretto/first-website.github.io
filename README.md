@@ -1,3 +1,3 @@
 # first-website.github.io
 
-## only complete to do 1-10
+## only complete TODOS 1-10
